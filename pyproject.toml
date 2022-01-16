@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_kari"
-version = "0.1.0"
+version = "0.1.2"
 description = "A tool for counting words."
 authors = ["Katia A"]
 license = "MIT"
